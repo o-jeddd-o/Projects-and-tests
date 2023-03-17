@@ -1,3 +1,0 @@
-selection program:
-using the dict.in command the item has to be case sensitive.
-returning all the values in a dictionary: dictname.items()clea
