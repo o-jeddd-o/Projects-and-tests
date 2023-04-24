@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="196b6f89-7fae-421f-b368-1cb37899c7bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/question 4b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/question 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question 4b.py" beforeDir="false" afterPath="$PROJECT_DIR$/question 4b.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +63,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/question 4b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#37#384#0" />
+                <element signature="e#407#550#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -435,8 +437,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/question 4b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="105">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#37#384#0" />
+            <element signature="e#407#550#0" />
+          </folding>
         </state>
       </provider>
     </entry>
